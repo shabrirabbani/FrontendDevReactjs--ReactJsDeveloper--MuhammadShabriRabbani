@@ -1,0 +1,27 @@
+.kartu{
+    border: none;
+}
+
+.foto{
+    border-radius: 0%;
+    width :286px ;
+    height :200px;
+}
+
+.cardtext{
+    text-align: right;
+}
+
+.placetext{
+    font-size: small;
+}
+
+.tombol{
+    text-align: center;
+    background-color: rgb(5, 18, 79);
+    width: 286px;
+    height: 50px;
+    border: none;
+    border-radius: 0;
+
+}
